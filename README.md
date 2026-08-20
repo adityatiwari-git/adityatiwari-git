@@ -10,6 +10,7 @@ Currently exploring **Python, Django, AI/GenAI, web development, databases, and 
 
 <p align="center">
   <a href="https://github.com/adityatiwari-git"><img src="https://img.shields.io/badge/GitHub-adityatiwari--git-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://adityatiwari-git.github.io/portfolio-v1/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:tiwariaditya28925@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -175,7 +176,15 @@ Alongside my degree, I've also worked through internships, technical training, N
 
 ## 🌐 Portfolio
 
-**Coming soon 🚧** — currently rebuilding my personal portfolio to better showcase my projects, skills, and journey.
+My current portfolio website is live here:
+
+<p align="center">
+  <a href="https://adityatiwari-git.github.io/portfolio-v1/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-adityatiwari--git.github.io-0A66C2?style=for-the-badge" />
+  </a>
+</p>
+
+> This is **Portfolio v1**. I'm planning to rebuild and evolve it as my projects and experience grow.
 
 ---
 
