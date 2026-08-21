@@ -11,6 +11,7 @@ Currently exploring **Python, Django, AI/GenAI, web development, databases, and 
 <p align="center">
   <a href="https://github.com/adityatiwari-git"><img src="https://img.shields.io/badge/GitHub-adityatiwari--git-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://adityatiwari-git.github.io/portfolio-v2/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/er-aditya-tiwari/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/aditya_.1206._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-aditya_.1206._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:tiwariaditya28925@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -250,6 +251,7 @@ I'm interested in meeting people who are:
 - Open to collaborating on projects
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/er-aditya-tiwari/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/aditya_.1206._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-aditya_.1206._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/adityatiwari-git"><img src="https://img.shields.io/badge/GitHub-adityatiwari--git-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:tiwariaditya28925@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
