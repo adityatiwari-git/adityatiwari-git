@@ -10,7 +10,8 @@ Currently exploring **Python, Django, AI/GenAI, web development, databases, and 
 
 <p align="center">
   <a href="https://github.com/adityatiwari-git"><img src="https://img.shields.io/badge/GitHub-adityatiwari--git-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://adityatiwari-git.github.io/portfolio-v1/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://adityatiwari-git.github.io/portfolio-v2/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.instagram.com/aditya_.1206._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-aditya_.1206._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:tiwariaditya28925@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -179,12 +180,12 @@ Alongside my degree, I've also worked through internships, technical training, N
 My current portfolio website is live here:
 
 <p align="center">
-  <a href="https://adityatiwari-git.github.io/portfolio-v1/">
+  <a href="https://adityatiwari-git.github.io/portfolio-v2/">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-adityatiwari--git.github.io-0A66C2?style=for-the-badge" />
   </a>
 </p>
 
-> This is **Portfolio v1**. I'm planning to rebuild and evolve it as my projects and experience grow.
+> This is **Portfolio V2** — a refreshed version built to better reflect my current projects, skills, and direction.
 
 ---
 
@@ -248,7 +249,11 @@ I'm interested in meeting people who are:
 - Interested in hackathons
 - Open to collaborating on projects
 
-If you find something interesting in one of my repositories, **open an issue, start a discussion, or say hi.**
+<p align="center">
+  <a href="https://www.instagram.com/aditya_.1206._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-aditya_.1206._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/adityatiwari-git"><img src="https://img.shields.io/badge/GitHub-adityatiwari--git-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:tiwariaditya28925@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
