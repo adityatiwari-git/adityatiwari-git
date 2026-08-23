@@ -52,9 +52,9 @@ A Django-based bioinformatics web application for analyzing DNA sequences.
 
 **Tech:** `Python` `Django` `HTML` `CSS` `Bootstrap` `MySQL`
 
-### 🏥 Accord-HMS — Hospital Management System
+### 🏥 Accord-HMS — Hospital Management System ✅ Completed
 
-A Django-based hospital management project designed around practical workflows for patients, doctors, departments, appointments, profiles, and administration.
+A completed Django-based hospital management project designed around practical workflows for patients, doctors, departments, appointments, profiles, and administration.
 
 **Tech:** `Python` `Django` `Bootstrap` `SQLite`
 
@@ -98,18 +98,18 @@ A Django-based hospital management project designed around practical workflows f
 
 ## 🧪 Projects & Experiments
 
-| Project | What it is | Focus |
-|---|---|---|
-| 🧬 **GenomeZ** | DNA Sequence Analyzer | Bioinformatics + Django |
-| 🏥 **Accord-HMS** | Hospital Management System | Django + Web Development |
-| 💰 **FinTrack** | Personal finance dashboard | React |
-| 🩺 **MedVault** | Healthcare-oriented application | Application Development |
-| 🥗 **NutriTrack** | Nutrition tracking application | AI / App Development |
-| 🧱 **CementPro** | Business management application | Web + Supabase |
-| 💬 **PromptPilot / Talk2AI** | AI prompting concept | Generative AI |
-| 📊 **AttendX** | Attendance management concept | Web Development |
-| 📞 **Contact Book CLI** | Command-line contact manager | Python |
-| 🧬 **Functional Sequence Characterization** | Biological sequence analysis | Bioinformatics |
+| Project | What it is | Focus | Status |
+|---|---|---|---|
+| 🧬 **GenomeZ** | DNA Sequence Analyzer | Bioinformatics + Django | 🚧 Active |
+| 🏥 **Accord-HMS** | Hospital Management System | Django + Web Development | ✅ Completed |
+| 💰 **FinTrack** | Personal finance dashboard | React | 🧪 Learning Project |
+| 🩺 **MedVault** | Healthcare-oriented application | Application Development | 🧪 Learning Project |
+| 🥗 **NutriTrack** | Nutrition tracking application | AI / App Development | 🧪 Learning Project |
+| 🧱 **CementPro** | Business management application | Web + Supabase | 🧪 Learning Project |
+| 💬 **PromptPilot / Talk2AI** | AI prompting concept | Generative AI | 🧪 Concept |
+| 📊 **AttendX** | Attendance management concept | Web Development | 🧪 Concept |
+| 📞 **Contact Book CLI** | Command-line contact manager | Python | ✅ Completed |
+| 🧬 **Functional Sequence Characterization** | Biological sequence analysis | Bioinformatics | 🧪 Learning Project |
 
 > Some projects are experiments, some are learning projects, and some are actively being improved. Every project has taught me something new.
 
