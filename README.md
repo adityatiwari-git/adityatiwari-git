@@ -27,6 +27,7 @@ Currently exploring **Python, Django, AI/GenAI, web development, databases, and 
 - 🌐 Exploring **Full-Stack Web Development**
 - 🤖 Learning and experimenting with **Generative AI**
 - 🧠 Strengthening my **Computer Science fundamentals**
+- 🔬 Interested in **research, AI/ML, and computational biology**
 - 🔨 I learn best by **building projects**
 - 📚 Regularly working on projects, courses, internships, and technical experiments
 
@@ -34,9 +35,14 @@ Currently exploring **Python, Django, AI/GenAI, web development, databases, and 
 
 ## 🚀 Currently Building
 
-### 🧬 GenomeZ — DNA Sequence Analyzer
+### 🧬 GenomeZ — DNA Sequence Analyzer ✅ Published
 
-A Django-based bioinformatics web application for analyzing DNA sequences.
+A live Django-based bioinformatics web application for analyzing DNA and protein sequences.
+
+<p>
+  <a href="https://genomez.onrender.com/"><img src="https://img.shields.io/badge/🌐%20Open%20GenomeZ-Live%20Website-0A66C2?style=for-the-badge" /></a>
+  <a href="https://github.com/adityatiwari-git/GenomeZ"><img src="https://img.shields.io/badge/💻%20View%20Source-GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
 **Features / capabilities:**
 - DNA → RNA & RNA → DNA
@@ -99,7 +105,7 @@ A completed Django-based hospital management project designed around practical w
 
 | Project | What it is | Focus | Status |
 |---|---|---|---|
-| 🧬 **GenomeZ** | DNA Sequence Analyzer | Bioinformatics + Django | 🚧 Active |
+| 🧬 **GenomeZ** | DNA Sequence Analyzer | Bioinformatics + Django | ✅ Published |
 | 🏥 **Accord-HMS** | Hospital Management System | Django + Web Development | ✅ Completed |
 | 💰 **FinTrack** | Personal finance dashboard | React | 🧪 Learning Project |
 | 🩺 **MedVault** | Healthcare-oriented application | Application Development | 🧪 Learning Project |
@@ -175,6 +181,19 @@ Alongside my degree, I've also worked through internships, technical training, N
 
 ---
 
+## 💼 Open to Paid Internships
+
+I'm currently open to **paid internship opportunities** in areas such as:
+
+- 🐍 Python / Django development
+- 🤖 AI / Generative AI
+- 💻 Software and web development
+- 🧬 Bioinformatics / Computational Biology
+
+I'm especially interested in opportunities where I can contribute to real projects, learn from experienced teams, and build practical experience.
+
+---
+
 ## 🌐 Portfolio
 
 My current portfolio website is live here:
@@ -235,6 +254,16 @@ Build technology at the intersection of:
 ## ☕ Beyond Code
 
 🎵 Music & singing · 🎸 Learning guitar · 🏏 Cricket · 🤖 Technology & AI · 🧪 Bioinformatics · 🚀 Building random ideas
+
+---
+
+## 📄 Resume
+
+My latest resume is available directly from my portfolio repository:
+
+<p align="center">
+  <a href="https://github.com/adityatiwari-git/portfolio-v2/blob/main/assets/resume.pdf"><img src="https://img.shields.io/badge/📄%20Download%20Resume-PDF-181717?style=for-the-badge&logo=adobeacrobatreader" /></a>
+</p>
 
 ---
 
